@@ -10,8 +10,9 @@ Veri setinde oldukça fazla eksik veri bulunduğundan eksik verileri gidermek i�
      PM10
      PM25
      CO 
- 3-)
- Aşağıdaki resimde her bir parametrenin aylara göre dağılımı bulunmaktadır.
+     
+ 
  
 ![aylaragore](https://user-images.githubusercontent.com/62748526/84568679-ba8aba00-ad89-11ea-85c0-345729ff0e24.PNG)
  
+3-)  Aşağıdaki resimde her bir parametrenin aylara göre dağılımı bulunmaktadır.
