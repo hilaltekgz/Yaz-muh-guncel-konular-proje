@@ -11,8 +11,10 @@ Veri setinde oldukça fazla eksik veri bulunduğundan eksik verileri gidermek i�
      PM25
      CO 
      
- 
- 
 ![aylaragore](https://user-images.githubusercontent.com/62748526/84568679-ba8aba00-ad89-11ea-85c0-345729ff0e24.PNG)
+
+![aylaragore1](https://user-images.githubusercontent.com/62748526/84568781-6a602780-ad8a-11ea-9be9-5ad24d3b5062.PNG)
  
-3-)  Aşağıdaki resimde her bir parametrenin aylara göre dağılımı bulunmaktadır.
+Yukarıdaki  resimde her bir parametrenin yıllara ve aylara göre dağılımı bulunmaktadır.
+
+
