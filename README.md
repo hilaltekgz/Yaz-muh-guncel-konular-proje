@@ -1,6 +1,7 @@
 # Yaz-muh-guncel-konular-proje
 Yazılım Mühendisliği Güncel Konular Dersi Proje Takibi için oluşturulmuştur.
 
+
 1-) Kocaeli ili için Çevre ve Şehircilik Bakanlığının yayınlamış olduğu veriler ile veriseti oluşturuldu. 
 Veri setinde oldukça fazla eksik veri bulunduğundan eksik verileri gidermek için pandas kütüphanesinde bulunan ve zaman serilerinde kullanılan "interpolate" yöntemi ile veri setindeki eksik veriler giderildi.
 
@@ -10,6 +11,25 @@ Veri setinde oldukça fazla eksik veri bulunduğundan eksik verileri gidermek i�
      PM10
      PM25
      CO 
+    
+ Bu çalışmada PM10 değeri tahmini gerçekleştirilmiştir. 
+ 
+ Toz Partikül Madde (PM10), partikül madde terimi, havada bulunan katı partikülleri ifade eder.
+Bu partiküllerin tek tip bir kimyasal bileşimi yoktur. Katı partiküller insan faaliyetleri sonucu ve
+doğal kaynaklardan, doğrudan atmosfere karışırlar. Atmosferde diğer kirleticiler ile reaksiyona
+girerek PM’yi oluştururlar ve atmosfere verilirler. (PM10 -10 μm’nin altında bir aerodinamik
+çapa sahiptir) 2,5 μm’ye kadar olan partikülleri kapsayacak yasal düzenlemeler konusunda
+çalışmalar devam etmektedir. PM10 için gösterilebilecek en büyük doğal kaynak yollardan
+kalkan tozlardır. Diğer önemli kaynaklar ise trafik, kömür ve maden ocakları, inşaat alanları ve
+taş ocaklarıdır. Sağlık etkileri açısından, PM10 solunum sisteminde birikebilir ve çeşitli sağlık
+etkilerine sebep olabilir. Astım gibi solunum rahatsızlıklarını kötüleştirebilir, erken ölümü de
+içeren çeşitli ciddi sağlık etkilerine sebep olur. Astım, kronik tıkayıcı akciğer ve kalp hastalığı
+gibi kalp veya akciğer hastalığı olan kişiler PM10’a maruz kaldığında sağlık durumları
+kötüleşebilir. Yaşlılar ve çocuklar, PM10 maruziyetine karşı hassastır. PM10 yardımıyla toz
+içerisindeki mevcut diğer kirleticiler akciğerlerin derinlerine kadar inebilir. İnce partiküllerin
+büyük bir kısmı akciğerlerdeki alveollere kadar ulaşabilir. Buradan da kurşun gibi zehirli
+maddeler %100 olarak kana geçebilir.
+
      
 ![aylaragore](https://user-images.githubusercontent.com/62748526/84568679-ba8aba00-ad89-11ea-85c0-345729ff0e24.PNG)
 
