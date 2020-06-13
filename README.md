@@ -58,7 +58,11 @@ MAE: 3.876
 MASE: 1.969
 MSE: 52.368
 
-7- ) Örneğin Sarıma Modelinde 
+7- ) Örneğin Sarıma Modelinde Gerçek ve Tahmin değerleri görülmektedir.
+
+![Sarıma_Tahmin](https://user-images.githubusercontent.com/62748526/84569340-67673600-ad8e-11ea-995f-8b2dd3354b8e.PNG)
+
+Veri setinin iyileştirilmesi ile daha sonuçlar verebilir. Fakat Sarıma modeli MASE değerinden dolayı en iyi başarımı vermiştir.
 
 
 
