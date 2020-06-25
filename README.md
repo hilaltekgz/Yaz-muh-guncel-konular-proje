@@ -84,5 +84,7 @@ MSE: 52.368
 
 Veri setinin iyileştirilmesi ile daha iyi sonuçlar verebilir. 
 
+Kocaeli DashBoard Uygulama 
 
+![kocaeliApp](https://user-images.githubusercontent.com/62748526/85712859-6b317b80-b6f1-11ea-8fa8-e33b8a850fad.PNG)
 
