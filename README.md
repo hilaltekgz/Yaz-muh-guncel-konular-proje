@@ -1,6 +1,6 @@
 # Yaz-muh-guncel-konular-proje
 Yazılım Mühendisliği Güncel Konular Dersi Proje Takibi için oluşturulmuştur.
-
+https://www.youtube.com/watch?v=OtPDRtJS-do
 
 1-) Kocaeli ili için Çevre ve Şehircilik Bakanlığının yayınlamış olduğu veriler ile veriseti oluşturuldu. 
 Veri setinde oldukça fazla eksik veri bulunduğundan eksik verileri gidermek için pandas kütüphanesinde bulunan ve zaman serilerinde kullanılan "interpolate" yöntemi ile veri setindeki eksik veriler giderildi.
